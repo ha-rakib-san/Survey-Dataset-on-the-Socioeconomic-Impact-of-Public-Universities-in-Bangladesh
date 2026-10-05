@@ -1,0 +1,2 @@
+# Survey-Dataset-on-the-Socioeconomic-Impact-of-Public-Universities-in-Bangladesh
+This dataset contains socioeconomic survey data from 484 individuals living near six regional universities. Collected via in-person interviews, it details monthly income in BDT, occupation, age, and residency duration. It includes regional literacy rates. Anonymized for safe research, it highlights university impact on local households and studies.
